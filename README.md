@@ -4,8 +4,7 @@ The author is not responsable for any damage
 ![alt text](https://user-images.githubusercontent.com/78761999/152872446-890b0773-cb04-4e07-9a56-80e36fb965d1.png)
 ![alt_text](http://ForTheBadge.com/images/badges/made-with-python.svg)
 ![alt_text](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
-![alt_text](https://img.shields.io/github/downloads/x04000/PineappleKiller/total.svg)
-![alt_text](https://img.shields.io/github/watchers/x04000/PineappleKiller.svg)
+![alt_text](https://img.shields.io/github/watchers/x04000/Pr1smaKiller.svg)
 # Info
 A hacking panel to use hacking tools |
 Have custom tools, kali tools and other
