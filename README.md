@@ -7,7 +7,7 @@ The author is not responsable for any damage
 ![alt_text](https://img.shields.io/github/watchers/x04000/Pr1smaKiller.svg)
 # Info
 A hacking panel to use hacking tools |
-Have custom tools, kali tools and other
+Have custom tools, debian (especially Parrot & Kali) tools and other
 # Modules
 | PineappleFramework |
 DoS |
